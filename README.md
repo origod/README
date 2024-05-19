@@ -1,2 +1,2 @@
 # README
-GitHabで編集しました
+Git Habで編集しました
